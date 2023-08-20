@@ -1,20 +1,10 @@
-# IntelliJ IDEA
 *.iml
-.idea/
-
-# Gradle build
 .gradle
-
-# Local properties
-/local.properties
-
-# macOS specific
+.idea
 .DS_Store
-
-# Build output directories
-/build
-/captures
+build
+captures
 .externalNativeBuild
 .cxx
-
+local.properties
 xcuserdata
